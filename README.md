@@ -58,7 +58,7 @@ An n8n workflow that:
 | Average cost saving (at $30/hr) | $90–$240/month per use case |
 | Workflow setup time (one-time) | 2–4 hours |
 | n8n hosting cost | Free (self-hosted) or ~$20/mo (cloud) |
-| AI API cost (per document) | ~$0.001–$0.01 per page |
+| AI API cost (per document) | ~$0.001–$0.01 per page (varies based on API provider) |
 | **Payback period** | **< 1 week** |
 
 ---
