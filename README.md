@@ -75,6 +75,7 @@ An n8n workflow that:
 ---
 
 ## 📹 Video Walkthrough
+
 <div>
     <a href="https://www.loom.com/share/33cc872e0c1640e4a2b0179f48471ab8">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/33cc872e0c1640e4a2b0179f48471ab8-9f0c55e2dd7978fc-full-play.gif#t=0.1">
