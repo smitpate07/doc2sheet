@@ -36,7 +36,7 @@ An n8n workflow that:
 
 1. **Triggers** when a PDF or image file is uploaded (via webhook, email attachment, Google Drive, or form upload)
 2. **Extracts text** PDF Vector AI model for intelligent field parsing.
-3. **Structures the output** into named fields (e.g. vendor name, date, amount, line items)
+3. **Structures the output** into named fields (e.g. vendor name, date, amount, line items).
 4. **Appends a row** to a Google Sheets spreadsheet automatically.
 ---
 
