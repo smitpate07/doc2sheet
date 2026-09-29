@@ -8,9 +8,9 @@
 
 Businesses and teams regularly receive documents — invoices, receipts, contracts, forms, and scanned images — that contain valuable data locked in unstructured formats. Manually reading, copying, and pasting this information into spreadsheets is:
 
-- Slow and error-prone
-- Expensive at scale (hours of human labor per week)
-- A bottleneck that delays reporting, reconciliation, and decisions
+- Slow and error-prone.
+- Expensive at scale (hours of human labor per week).
+- A bottleneck that delays reporting, reconciliation, and decisions.
 
 The workflow mentioned below solves that by automating the full pipeline: **receive document → extract text using AI → structure the output → write rows into Google Sheets or any database**.
 
